@@ -46,7 +46,7 @@ module.exports = [
     use: [
       {
         loader: "url-loader",
-        options: {prefix: "font", limit: 5000}
+        options: { prefix: "font", limit: 5000 }
       }
     ]
   },

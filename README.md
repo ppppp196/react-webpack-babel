@@ -19,6 +19,8 @@ Tired of complicated starters with 200MB of dependencies which are hard to under
 * Hot Module Reloading
 * Jest 21 
 * Enzyme 3 for testing
+* Redux 3.7.2
+* Redux-Saga 0.16.0
 
 ### Features
 
